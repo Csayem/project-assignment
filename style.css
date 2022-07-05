@@ -9,9 +9,11 @@ body {
     border-radius: 6px;
     font-size: 20px;
     color: white;
+}
 
-
-
+.second-button {
+    text-align: center;
+    margin-top: 30px;
 }
 
 .first-page {
@@ -76,4 +78,29 @@ body {
     padding-top: 50px;
     padding-left: 20px;
 
+}
+
+.amount {
+    text-align: center;
+    margin-top: 5%;
+    background-color: transparent;
+    border: 0px solid;
+}
+
+.amount-taka {
+    color: lightgray;
+    text-align: center;
+    border-bottom: 2px solid lightgray;
+
+}
+
+.donate-plan {
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+    font-size: x-large;
+}
+
+p {
+    color: gray;
 }
