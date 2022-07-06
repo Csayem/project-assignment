@@ -65,6 +65,7 @@ body {
     margin-right: 20px;
     padding-top: 50px;
     padding-left: 20px;
+    font-weight: 700;
 
 
 }
@@ -77,6 +78,8 @@ body {
     margin-right: 20px;
     padding-top: 50px;
     padding-left: 20px;
+    color: red;
+    font-weight: 700;
 
 }
 
@@ -103,4 +106,29 @@ body {
 
 p {
     color: gray;
+}
+
+.donation-div {
+    display: flex
+}
+
+.donate-site {
+    width: 30%;
+    margin-left: 3%;
+    box-shadow: 15px 10px 5px grey;
+    padding-left: 10px;
+
+}
+
+.different-bg1 {
+    background-color: cornsilk;
+}
+
+.different-bg2 {
+    background-color: lightsalmon;
+}
+
+.different-bg3 {
+    background-color: lightyellow;
+
 }
