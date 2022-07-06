@@ -132,3 +132,34 @@ p {
     background-color: lightyellow;
 
 }
+
+.extra {
+    display: flex;
+
+
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+    font-size: x-large;
+    text-align: center;
+}
+
+.half-width image {
+    width: 100%;
+}
+
+.footer-style {
+    font-style: oblique;
+    color: white;
+    text-align: center;
+}
+
+.footer-color {
+    color: red;
+}
+
+.footer-bg {
+    background-color: darkblue;
+}
